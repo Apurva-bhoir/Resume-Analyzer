@@ -43,8 +43,8 @@ _This is a functional project built with Streamlit, NLP, and Gemini API. Availab
 
 ---
 
-## 👤 Author
-Developed with ❤️ by Apurva Bhoir
+## 👤 Developer
+ Apurva Bhoir
 
 This is a personal original project designed, coded, and created by me.
 
